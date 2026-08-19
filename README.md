@@ -17,7 +17,7 @@ Currently completing Microsoft SC-300 (Identity and Access Administrator) to for
 | [SCIM Provisioning](https://github.com/andrewojha24-del/entra-scim-provisioning) | Automatic user provisioning to an external application over SCIM 2.0, including diagnosing and fixing a real attribute error |
 | [Conditional Access Policy Lab](https://github.com/andrewojha24-del/entra-conditional-access-lab) | Risk based access policy design, deployed safely in Report only mode and validated with the What If simulation tool |
 | [On-Prem AD to Entra ID Hybrid Home Lab](https://github.com/andrewojha24-del/entra-ad-home-lab) | A self hosted Active Directory Domain Controller, promoted, structured with OUs and a GPO, and hybrid synced to Entra ID with Microsoft Entra Connect |
-| [IAM Troubleshooting Casebook](https://github.com/andrewojha24-del/iam-troubleshooting-casebook) | A structured record of the real issues hit while building the other seven projects, each documented with root cause, fix, and lesson |
+| [IAM Troubleshooting Casebook](https://github.com/andrewojha24-del/iam-projects-troubleshooting-casebook) | A structured record of the real issues hit while building the other seven projects, each documented with root cause, fix, and lesson |
 
 ## How this portfolio is built
 
