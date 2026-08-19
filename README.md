@@ -42,9 +42,9 @@ Every project follows the same standard: a working configuration or script, scre
 - CompTIA Security+
 - Microsoft SC-300 (Identity and Access Administrator) — in progress
 - 	Fortinet Certified Fundamentals in Cybersecurity
-- Fortinet Certified Associate in Cybersecurity (July 2026)
-- Google Cybersecurity Certificate (December 2025)
-- Cybersecurity Defense Analyst Pathway Certificate - Cisco Networking Academy (May 2026)
+- Fortinet Certified Associate in Cybersecurity
+- Google Cybersecurity Certificate
+- Cybersecurity Defense Analyst Pathway Certificate - Cisco Networking Academy
 
 
 ## Connect
