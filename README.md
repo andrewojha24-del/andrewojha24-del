@@ -1,7 +1,7 @@
 # Hi, I'm Andrew (Anurodh) Ojha
 
 
-I'm transitioning into cybersecurity, with hands on experience spanning Identity and Access Management and Governance, Risk & Compliance — grounded in 4+ years of identity verification, authentication, and fraud prevention experience in a regulated telecommunications environment.
+I'm transitioning into cybersecurity, with hands on experience spanning Identity and Access Management and Governance, Risk & Compliance grounded in 4+ years of identity verification, authentication, and fraud prevention experience in a regulated telecommunications environment.
 
 This profile hosts two portfolios: an 8 project, hands on Microsoft Entra ID IAM portfolio covering the full identity lifecycle from onboarding to offboarding, federation, governance, privileged access, provisioning, risk based access control, and hybrid on prem identity — and a 3 project GRC portfolio covering technical risk assessment, ISO 27001 audit readiness, and third party vendor risk, consolidated into a board-facing Power BI dashboard.
 
