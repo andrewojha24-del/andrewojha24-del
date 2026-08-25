@@ -1,4 +1,4 @@
-**Hi, I'm Andrew (Anurodh) Ojha
+Hi, I'm Andrew (Anurodh) Ojha
 
 
 I'm transitioning into cybersecurity with a focus on Identity and Access Management, building on 4+ years of hands on identity verification, authentication, and fraud prevention experience in a regulated telecommunications environment.
