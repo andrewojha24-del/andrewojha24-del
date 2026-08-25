@@ -11,14 +11,14 @@ Currently completing Microsoft SC-300 (Identity and Access Administrator) to for
 
 | Project | What it covers |
 |---|---|
-| Entra ID JML Automation | Joiner, Mover, and Leaver identity lifecycle automation using the Microsoft Graph API and PowerShell, with app only authentication |
-| SSO: SAML + OIDC | Enterprise application SSO configured and tested with both major federation protocols, including a live decoded OIDC token |
-| Access Review and Governance | Group based access certification, reviewer decisions made through My Access, including overriding an automated recommendation with documented justification |
-| Privileged Identity Management | Just in time, time bound privileged role activation with MFA, justification, and approval enforcement |
-| SCIM Provisioning | Automatic user provisioning to an external application over SCIM 2.0, including diagnosing and fixing a real attribute error |
-| Conditional Access Policy Lab | Risk based access policy design, deployed safely in Report only mode and validated with the What If simulation tool |
-| On-Prem AD to Entra ID Hybrid Home Lab | A self hosted Active Directory Domain Controller, promoted, structured with OUs and a GPO, and hybrid synced to Entra ID with Microsoft Entra Connect |
-| IAM Troubleshooting Casebook | A structured record of the real issues hit while building the other seven projects, each documented with root cause, fix, and lesson |
+| [Entra ID JML Automation](https://github.com/andrewojha24-del/entra-jml-automation) | Joiner, Mover, and Leaver identity lifecycle automation using the Microsoft Graph API and PowerShell, with app only authentication |
+| [SSO: SAML + OIDC](https://github.com/andrewojha24-del/entra-sso-saml-oidc) | Enterprise application SSO configured and tested with both major federation protocols, including a live decoded OIDC token |
+| [Access Review and Governance](https://github.com/andrewojha24-del/entra-access-review-governance) | Group based access certification, reviewer decisions made through My Access, including overriding an automated recommendation with documented justification |
+| [Privileged Identity Management](https://github.com/andrewojha24-del/entra-pim-privileged-access) | Just in time, time bound privileged role activation with MFA, justification, and approval enforcement |
+| [SCIM Provisioning](https://github.com/andrewojha24-del/entra-scim-provisioning) | Automatic user provisioning to an external application over SCIM 2.0, including diagnosing and fixing a real attribute error |
+| [Conditional Access Policy Lab](https://github.com/andrewojha24-del/entra-conditional-access-lab) | Risk based access policy design, deployed safely in Report only mode and validated with the What If simulation tool |
+| [On-Prem AD to Entra ID Hybrid Home Lab](https://github.com/andrewojha24-del/entra-ad-home-lab) | A self hosted Active Directory Domain Controller, promoted, structured with OUs and a GPO, and hybrid synced to Entra ID with Microsoft Entra Connect |
+| [IAM Troubleshooting Casebook](https://github.com/andrewojha24-del/iam-projects-troubleshooting-casebook) | A structured record of the real issues hit while building the other seven projects, each documented with root cause, fix, and lesson |
 
 ## GRC Portfolio
 
@@ -26,9 +26,9 @@ Built against a shared fictional organisation profile, Northbridge Logistics (a 
 
 | Project | What it covers |
 |---|---|
-| Integrated Cyber Risk & Controls Assessment | ACSC Essential Eight maturity scoring, mapped to NIST CSF 2.0 Functions and Categories, converted into a formal risk register with treatment plans |
-| ISO 27001 Audit Readiness & Evidence Pack | 8 ISO/IEC 27001:2022 Annex A controls assessed for implementation status and evidence sufficiency, with findings classified as Non-conformity, Observation, or Conformity |
-| Enterprise GRC Dashboard & TPRM Framework | A third-party vendor risk assessment of 4 fictional vendors, plus a Power BI dashboard consolidating the risk register, ISO findings, vendor risk, and Essential Eight maturity into a single board-facing view |
+| [Integrated Cyber Risk & Controls Assessment](https://github.com/andrewojha24-del/integrated-cyber-risk-assessment-Keep-it-Public) | ACSC Essential Eight maturity scoring, mapped to NIST CSF 2.0 Functions and Categories, converted into a formal risk register with treatment plans |
+| [ISO 27001 Audit Readiness & Evidence Pack](https://github.com/andrewojha24-del/iso27001-audit-readiness-evidence-pack) | 8 ISO/IEC 27001:2022 Annex A controls assessed for implementation status and evidence sufficiency, with findings classified as Non-conformity, Observation, or Conformity |
+| [Enterprise GRC Dashboard & TPRM Framework](https://github.com/andrewojha24-del/enterprise-grc-dashboard-tprm) | A third-party vendor risk assessment of 4 fictional vendors, plus a Power BI dashboard consolidating the risk register, ISO findings, vendor risk, and Essential Eight maturity into a single board-facing view |
 
 ## How this portfolio is built
 
